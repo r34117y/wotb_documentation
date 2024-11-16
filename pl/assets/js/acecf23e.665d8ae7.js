@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksymfony_anagrams_docs=self.webpackChunksymfony_anagrams_docs||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/pl/blog","blogTitle":"Blog","authorsListPath":"/pl/blog/authors"}')}}]);
