@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksymfony_anagrams_docs=self.webpackChunksymfony_anagrams_docs||[]).push([[9647],{7121:(s,e,a)=>{a.r(e),a.d(e,{default:()=>t});a(6540);var r=a(4164),n=a(1213),c=a(7559),u=a(2831),o=a(781),d=a(4848);function t(s){return(0,d.jsx)(n.e3,{className:(0,r.A)(c.G.wrapper.docsPages),children:(0,d.jsx)(o.A,{children:(0,u.v)(s.route.routes)})})}}}]);
